@@ -18,6 +18,8 @@ namespace Zoo_ConsoleApp
         {
 
         }
+        ///:)
+        ///tester git
 
         /// <summary>
         /// cosntructor som tager dyrenavn som parameter
